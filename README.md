@@ -10,7 +10,7 @@ Building a song recommender using Graphlab
 - graphlab
 
 ## Used data set 
-[song_data.gl](link to data in repo)
+[song_data.gl](https://github.com/Magho/Song-Recommender/tree/master/song_data.gl)
 
 # Algorithms used :
 - popularity_recommender.
